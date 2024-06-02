@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go test lexer" type="GoTestRunConfiguration" factoryName="Go Test">
+    <module name="moonk-language" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="PACKAGE" />
+    <package value="github.com/oriiyx/moonk-language/lexer" />
+    <directory value="$PROJECT_DIR$/lexer" />
+    <filePath value="$PROJECT_DIR$" />
+    <framework value="gotest" />
+    <method v="2" />
+  </configuration>
+</component>
